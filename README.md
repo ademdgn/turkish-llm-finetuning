@@ -302,7 +302,7 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 **Adem Doğan**
 - GitHub: [@ademdgn](https://github.com/ademdgn)
 - LinkedIn: [Adem Doğan](https://linkedin.com/in/ademdgn)
-- Email: adem@example.com
+- Email: ademdogan972@gmail.com
 
 ## 🙏 Acknowledgments
 
